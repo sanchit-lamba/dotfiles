@@ -1,0 +1,20 @@
+{
+  "BwExecutablePath": "C:\\Users\\Sanchit\\scoop\\shims\\bw.exe",
+  "ClientId": "user.9f0c8d19-a369-4d91-b86e-af97015da1cc",
+  "SessionKey": "D9JN1XgRkwW/BJ6EY6N0bj\u002BkwkAscv7j/ZJO8c2mvwLMrOZ\u002B8lvt1/e/L/wzT8KumirJhtZ\u002B9X00439pwT9rig==",
+  "LogTrace": false,
+  "LogDebug": false,
+  "LogInfo": false,
+  "LogWarning": true,
+  "LogError": true,
+  "AutoLockDuration": 0,
+  "NotifyOnPasswordCopy": true,
+  "NotifyOnUsernameCopy": true,
+  "NotifyOnUriCopy": false,
+  "NotifyOnTotpCopy": true,
+  "NotifyOnSyncStart": true,
+  "NotifyOnIconCacheStart": true,
+  "NotifyOnSyncComplete": true,
+  "ClipboardClearSeconds": 0,
+  "IsPathEnvironmentValid": true
+}

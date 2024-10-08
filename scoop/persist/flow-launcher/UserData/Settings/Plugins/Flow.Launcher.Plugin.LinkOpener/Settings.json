@@ -1,0 +1,51 @@
+[
+  {
+    "Keyword": "yt",
+    "Title": "YouTube",
+    "Url": "https://www.youtube.com/",
+    "IconPath": null,
+    "AddToBulkOpenUrls": false
+  },
+  {
+    "Keyword": "nx",
+    "Title": "NextCloud",
+    "Url": "https://idkshit.duckdns.org/apps/dashboard/",
+    "IconPath": null,
+    "AddToBulkOpenUrls": false
+  },
+  {
+    "Keyword": "ahk",
+    "Title": "AutoHotKeyDocs",
+    "Url": "https://www.autohotkey.com/docs/v2/",
+    "IconPath": null,
+    "AddToBulkOpenUrls": false
+  },
+  {
+    "Keyword": "mv",
+    "Title": "MovieWeb",
+    "Url": "https://sudo-flix.rip/",
+    "IconPath": null,
+    "AddToBulkOpenUrls": false
+  },
+  {
+    "Keyword": "nf",
+    "Title": "Netflix",
+    "Url": "https://www.netflix.com/in/",
+    "IconPath": null,
+    "AddToBulkOpenUrls": false
+  },
+  {
+    "Keyword": "wh",
+    "Title": "WhatsApp",
+    "Url": "https://web.whatsapp.com/",
+    "IconPath": null,
+    "AddToBulkOpenUrls": false
+  },
+  {
+    "Keyword": "mpv",
+    "Title": "MpvConfig",
+    "Url": "https://mpv.io/manual/master/",
+    "IconPath": null,
+    "AddToBulkOpenUrls": false
+  }
+]
